@@ -1,4 +1,4 @@
-# Correspondance of bytes spilled to bitfield in question
+# Correspondence of bytes spilled to bitfield in question
 
 table = [
 	(340, 6),
